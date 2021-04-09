@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Here is a quote:
+#### Welcome to my GitHub! Feel free to browse some of the projects I have worked on.
+
 **_Imagination is the spark that ignites the fire of creativity_** - Richard L. Peterson
 
 <!--
