@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 Here is a quote:
+**_Imagination is the spark that ignites the fire of creativity_** - Richard L. Peterson
 
-Imagination is the spark that ignites the fire of creativity. 
-############################################################# - Richard L. Peterson
 <!--
 **faisalkhan91/faisalkhan91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
