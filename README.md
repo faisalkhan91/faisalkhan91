@@ -2,8 +2,7 @@
 
 #### Welcome to my GitHub! Feel free to browse some of the projects I have worked on.
 
-##### Current Project:
-Working on an angular application.
+##### Current Project: Working on an angular application.
 
 **_Imagination is the spark that ignites the fire of creativity_** - Richard L. Peterson
 
