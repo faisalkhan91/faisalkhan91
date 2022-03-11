@@ -2,7 +2,10 @@
 
 #### Welcome to my GitHub! Feel free to browse some of the projects I have worked on.
 
-##### Currently: Working on an angular application to create a portfolio website.
+##### Currently: 🌱 I’m currently learning data structures and algorithms in python.
+
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: As a kid I wanted to be a Pilot until I realized I am afraid of heights. ;)
 
 **_Imagination is the spark that ignites the fire of creativity_** - Richard L. Peterson
 
