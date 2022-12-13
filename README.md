@@ -8,7 +8,7 @@
 - ⚡ Fun fact: As a kid I wanted to be a Pilot until I realized I am afraid of heights. ;)
 - ♊️ Zodiac: Gemini
 
-- 📫 How to reach me: faisalkhan91@gmail.com
+📫 How to reach me: faisalkhan91@gmail.com
 
 **_Imagination is the spark that ignites the fire of creativity_** - Richard L. Peterson
 
