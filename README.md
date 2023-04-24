@@ -34,3 +34,9 @@ Here are some ideas to get you started:
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=blue-green&langs_count=8&layout=compact" /></div>
 </div>
 
+<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=blue-green" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=blue-green" />
+</div>
+
+
+
