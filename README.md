@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 1. GitHub Stats -->
-<div align="right" width="200">
+<div align="right">
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true)
 </div>
   
