@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- 1. GitHub Stats -->
-<p>
-  align="right" width="200![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true)
+<p align="right" width="200>
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true)
 </p>
   
 <!-- 2. Most Used Languages -->
