@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=radical&langs_count=8&layout=compact" />
+ <img class="img" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=radical" />
+ <img class="img" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=radical&langs_count=8&layout=compact" />
 </div>  
 
 
