@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=blue-green" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=blue-green" />
-</div>
-<div align="right" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=blue-green&langs_count=8&layout=compact" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=blue-green&langs_count=8&layout=compact" />
-</div>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=radical&layout=compact" />
+</div>  
 
 
