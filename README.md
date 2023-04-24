@@ -32,4 +32,11 @@ Here are some ideas to get you started:
  <img class="img" style="height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=radical&langs_count=10&layout=compact" />
 </div>  
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
