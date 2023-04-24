@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- 1. GitHub Stats -->
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true)
+<p>
+  align="right" width="200![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true)
+</p>
+  
 <!-- 2. Most Used Languages -->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=blue-green)
 <!-- ## 5. Profile View Counter -->
