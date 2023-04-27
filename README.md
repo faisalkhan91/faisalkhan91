@@ -5,6 +5,7 @@
 ##### Currently: 
 🌱 I’m currently learning data structures and algorithms in python and working on my personal website called FluxusUI.
 
+##### Bio Stats: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: As a kid I wanted to be a Pilot until I realized I am afraid of heights. ;)
 - ♊️ Zodiac: Gemini
