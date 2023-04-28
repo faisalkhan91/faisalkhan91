@@ -28,13 +28,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Skills:
+<h2 align="center">Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,ansible,aws,azure,bash,c,cs,cpp,codepen,css,discord,django,docker,dotnet,firebase,git,github,githubactions,gitlab,html,java,js,jenkins,kafka,kubernetes,latex,linux,mongodb,mysql,netlify,nginx,nodejs,openshift,postgres,postman,powershell,py,r,raspberrypi,stackoverflow,selenium,vim,visualstudio,vscode" />
   </a>
 </p>
-#### Github Statistics:
+<h2 align="center">Github Statistics </h2>
+
 <div style="display: flex; flex-direction: row;">
  <img class="img" style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=kacho_ga&bg_color=00000000" />
  <img class="img" style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=kacho_ga&langs_count=8&layout=compact&hide_border=true&bg_color=00000000" />
