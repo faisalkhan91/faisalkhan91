@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h2 align="center">Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ansible,aws,azure,bash,c,cs,cpp,codepen,css,discord,django,docker,dotnet,firebase,git,github,githubactions,gitlab,html,java,js,jenkins,kafka,kubernetes,latex,linux,mongodb,mysql,netlify,nginx,nodejs,openshift,postgres,postman,powershell,py,r,raspberrypi,stackoverflow,selenium,vim,visualstudio,vscode&perline=22" />
+    <img src="https://skillicons.dev/icons?i=angular,ansible,aws,azure,bash,c,cs,cpp,codepen,css,discord,django,docker,dotnet,firebase,git,github,githubactions,gitlab,html,java,js,jenkins,kafka,kubernetes,latex,linux,mongodb,mysql,netlify,nginx,nodejs,openshift,postgres,postman,powershell,py,r,raspberrypi,stackoverflow,selenium,vim,visualstudio,vscode&perline=22" width=100% />
   </a>
 </p>
 
