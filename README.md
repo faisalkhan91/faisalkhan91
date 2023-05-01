@@ -3,7 +3,8 @@
 #### Welcome to my GitHub! Feel free to browse some of the projects I have worked on.
 
 ##### Currently: 
-🌱 I’m currently learning data structures and algorithms in python and working on my personal website called FluxusUI.
+🔭 I’m currently working on my personal website called FluxusUI.
+🌱 I’m currently learning data structures and algorithms in python.
 
 ##### Bio Stats: 
 - 😄 Pronouns: He/Him
