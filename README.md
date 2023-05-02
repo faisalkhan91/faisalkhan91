@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">Github Statistics </h2>
-<div style="display: flex; flex-direction: row;">
- <img class="img" style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=kacho_ga&bg_color=00000000" width=50%/>
- <img class="img" style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=kacho_ga&langs_count=8&layout=compact&hide_border=true&bg_color=00000000" width=50%/>
+<div style="display: flex; flex-direction: row;" width=100%>
+ <img class="img" style="height: 100%;" src="https://github-readme-stats.vercel.app/api?username=faisalkhan91&show_icons=true&theme=kacho_ga&bg_color=00000000" />
+ <img class="img" style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalkhan91&theme=kacho_ga&langs_count=8&layout=compact&hide_border=true&bg_color=00000000" />
 </div>
