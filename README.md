@@ -4,11 +4,11 @@
 
 ##### Currently: 
 - 🔭 I’m currently working on my personal website called FluxusUI.
-- 🌱 I’m currently learning data structures and algorithms in python.
+- 🌱 I’m currently learning data structures and algorithms in Python.
 
 ##### Bio Stats: 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: As a kid I wanted to be a Pilot until I realized I am afraid of heights. ;)
+- ⚡ Fun fact: As a kid, I wanted to be a Pilot until I realized I am afraid of heights. ;)
 - ♊️ Zodiac: Gemini
 
 📫 How to reach me: faisalkhan91@gmail.com
