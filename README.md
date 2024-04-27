@@ -4,7 +4,7 @@
 
 ##### Currently: 
 - 🔭 I’m currently working on my personal website called FluxusUI.
-- 🌱 I’m currently learning data structures and algorithms in Python.
+- 🌱 I’m currently learning terraform automation.
 
 ##### Bio Stats: 
 - 😄 Pronouns: He/Him
