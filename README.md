@@ -3,7 +3,7 @@
 #### Welcome to my GitHub! Feel free to browse some of the projects I have worked on.
 
 ##### Currently: 
-- 🔭 I’m currently working on my personal website called FluxusUI.
+- 🔭 I’m currently working on creating AI applications in my downtime.
 - 🌱 I’m currently learning terraform automation.
 
 ##### Bio Stats: 
