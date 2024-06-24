@@ -11,6 +11,9 @@
 - ⚡ Fun fact: As a kid, I wanted to be a Pilot until I realized I am afraid of heights. ;)
 - ♊️ Zodiac: Gemini
 
+##### Certifications:
+[Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/faisalkhan91/credentials/5fc4298c5bba946a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
 📫 How to reach me: faisalkhan91@gmail.com
 
 **_Imagination is the spark that ignites the fire of creativity_** - Richard L. Peterson
