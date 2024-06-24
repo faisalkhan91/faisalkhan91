@@ -13,6 +13,9 @@
 
 ##### Certifications:
 - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/faisalkhan91/credentials/5fc4298c5bba946a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Splunk Cloud Administration](https://www.credly.com/badges/1935b0e6-2fac-4a8f-af20-be884fb8e9e6/linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5506fef8-1c31-493e-b60b-2252ea80123e/linked_in_profile)
+- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/faisalkhan91/EF4BC6AB7EE282FD?sharingId=AD6ED1396DB2037B)
 
 📫 How to reach me: faisalkhan91@gmail.com
 
