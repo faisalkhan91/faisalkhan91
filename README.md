@@ -12,7 +12,7 @@
 - ♊️ Zodiac: Gemini
 
 ##### Certifications:
-#[Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/faisalkhan91/credentials/5fc4298c5bba946a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/faisalkhan91/credentials/5fc4298c5bba946a?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 📫 How to reach me: faisalkhan91@gmail.com
 
